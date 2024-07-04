@@ -1,0 +1,6 @@
+Make a framework 
+Use a single asset exotic option pricing framework
+
+Look at formulation
+
+Look at random number generator
